@@ -1,0 +1,87 @@
+body {
+    font-family: 'Roboto', regular;
+    background-image: url('/assets/img/back.jpg');
+    color:#ffffff;
+    background-size: cover;
+    font-size: 30px;
+    font-weight: normal;
+}
+
+.title {
+    font-size: 70px;
+    text-align: center;
+    margin-top:80px;
+    margin-bottom: -90px;  
+    color:#ffffff;
+}
+
+.borde {
+    border-width: medium;
+    border-style: solid;
+    border-color: #ffffff;
+    margin: 8em 1em 8em 1em;
+    opacity: 80%;
+    background-color:rgba(0, 0, 0, 0.801);
+}
+
+.borde2 {
+    margin: 2em 0em 0em 0em;
+}
+
+.sobre-nosotros {
+    margin: 90px 90px 90px 90px;
+    text-align: justify;
+}
+
+.product-one {
+    text-align: center;
+    position: relative;
+    bottom: 12em;
+    left:15em;
+}
+
+.image-one {
+    position: relative;
+    left:8em;
+    image-resolution: 300px;
+}
+
+.image-two {
+    position: relative;
+    left:8em;
+    height: 400px;
+}
+
+.product-two {
+    text-align: center;
+    position: relative;
+    bottom: 12em;
+    left:15em;
+}
+
+.image-three {
+    position: relative;
+    left:8em;
+    height: 600px;
+}
+
+.product-three {
+    text-align: center;
+    position: relative;
+    bottom: 12em;
+    left:15em;
+}
+
+.pie-pagina {
+    color:#ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+a:link {
+    color: #ffffff;
+  }
+  
+  a:visited {
+    color: #ffffff;
+  }
